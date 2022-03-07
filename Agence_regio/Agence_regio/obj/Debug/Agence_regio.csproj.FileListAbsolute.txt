@@ -1,0 +1,11 @@
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\bin\Debug\Agence_regio.exe.config
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\bin\Debug\Agence_regio.exe
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\bin\Debug\Agence_regio.pdb
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.csproj.AssemblyReference.cache
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.Form1.resources
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.Properties.Resources.resources
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.csproj.GenerateResource.cache
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.csproj.CoreCompileInputs.cache
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.exe
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.pdb
+C:\Users\IBIZA-PC\source\repos\Agence_regio\Agence_regio\obj\Debug\Agence_regio.RechercheAppartement.resources
